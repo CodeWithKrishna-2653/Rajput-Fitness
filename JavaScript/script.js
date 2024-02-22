@@ -1,6 +1,6 @@
 // Type writeer code
 
-const texts = ["teacher", "gym trainer", "web developer"];
+const texts = ["software engineer", "web designer", "web developer"];
 
 const typewriter = document.getElementById("type");
 let textIndex = 0;
@@ -33,7 +33,7 @@ type(); // Start the typing loop
 //Navbar color changing
 
 const nav = document.querySelector("nav");
-const home = document.querySelector(".firstsection");
+const home = document.querySelector(".aboutsection");
 const cursors = document.querySelector('.main-cursor')
 
 
