@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 18,
+    "editor.codeLensFontSize": 0,
+    "livePreview.customExternalBrowser": "Chrome",
+    "livePreview.openPreviewTarget": "External Browser"
+}
